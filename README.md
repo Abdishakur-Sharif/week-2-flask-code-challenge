@@ -61,9 +61,9 @@ deliverables below.
 
 ## Models
 
-You will implement an API for the following data model:
+You will implement an API for the contentfollowing data model:
 
-![domain diagram](https://curriculum-content.s3.amazonaws.com/6130/code-challenge-1/domain.png)
+![domain diagram](https://curriculum-.s3.amazonaws.com/6130/code-challenge-1/domain.png)
 
 The file `server/models.py` defines the model classes **without relationships**.
 Use the following commands to create the initial database `app.db`:
